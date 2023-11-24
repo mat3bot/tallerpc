@@ -8,8 +8,8 @@
     <td width=100px style="text-align:right;vertical-align:top;padding-top:15px;padding-right:15px"><strong>Tema:</strong></td>
     <td width=640px style="vertical-align:top;padding-top:15px">Pensamiento Computacional</td>
   </tr>
-  <tr>
-    <td colspan="2" style="text-align:right;vertical-align:top;padding-top:15px;padding-right:15px"><strong>Expositores:</strong></td>
+  <tr rowspan="2">
+    <td style="text-align:right;vertical-align:top;padding-top:15px;padding-right:15px"><strong>Expositores:</strong></td>
     <td style="vertical-align:top;padding-top:15px">Wilfredo Siles Chávez</td>
   </tr>
   <tr>
