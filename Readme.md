@@ -9,7 +9,10 @@
     <td width=640px style="vertical-align:top;padding-top:15px">Pensamiento Computacional</td>
   </tr>
   <tr>
-    <td style="text-align:right;vertical-align:top;padding-top:15px;padding-right:15px"><strong>Autor:</strong></td>
+    <td colspan="2" style="text-align:right;vertical-align:top;padding-top:15px;padding-right:15px"><strong>Expositores:</strong></td>
+    <td style="vertical-align:top;padding-top:15px">Wilfredo Siles Chávez</td>
+  </tr>
+  <tr>
     <td style="vertical-align:top;padding-top:15px">Wilfredo Siles Chávez</td>
   </tr>
 </table>
