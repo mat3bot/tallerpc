@@ -20,13 +20,6 @@
   <li>Presentación sobre Aplicación de Programación Gráfica a la Matemática <a href="https://archive.org/details/mat-3-bot">Link</a></li>
 </ul>
 <p><br></p>
-<p></p>
-<p align=left style="font-size:65px;"><i>Ejercicios para realizar en Jupyter Notebook</i></p>
-<ul>
-  <li> Función Coseno <a href="./Coseno.py">Link</a></li>
-  <li> Función Lineal <a href="./Lineal.py">Link</a></li>
-  <li> Función Cuadrática <a href="./Cuadratica.py">Link</a></li>
-</ul>
 <p><br></p>
 <p></p>
 <p></p>
