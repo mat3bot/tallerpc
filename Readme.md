@@ -1,7 +1,7 @@
 <body>
 <p style="padding-top:50px"></p>
 <p align=center style="font-size:95pt;">Taller</p>
-<p align=center style="font-size:65px;">Repositorio</p>
+<p align=center style="font-size:65px;">Resolución de Problemas Matemáticos con el Pensamiento Computacional</p>
 <p align=center style="font-size:45px;"><br></p>
 <table width=100%>
   <tr>
@@ -20,7 +20,7 @@
 <p align=left style="font-size:65px;"><i>Enlaces de interés</i></p>
 <ul>
   <li>Jupyter Notebook Online <a href="https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb">Link</a></li>
-  <li>Presentación sobre Aplicación de Programación Gráfica a la Matemática <a href="https://archive.org/details/mat-3-bot">Link</a></li>
+  <li>Presentación referida a la aplicación de la Programación Gráfica en Matemática <a href="https://archive.org/details/mat-3-bot">Link</a></li>
 </ul>
 <p><br></p>
 <p><br></p>
