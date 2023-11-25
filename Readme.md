@@ -26,7 +26,6 @@
 <p><br></p>
 <p></p>
 <p></p>
-<p></p>
 <p style="padding-top:20px"></p>
 <p align=center><img src="https://m.media-amazon.com/images/I/611BmsgbSVL._AC_UF1000,1000_QL80_.jpg" width="402" height="640"/></a></p>
 </body>
